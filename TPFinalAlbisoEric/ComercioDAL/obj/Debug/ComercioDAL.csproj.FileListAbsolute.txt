@@ -1,0 +1,14 @@
+c:\users\usuario\documents\visual studio 2013\Projects\TPFinalAlbisoEric\ComercioDAL\bin\Debug\ComercioDAL.dll
+c:\users\usuario\documents\visual studio 2013\Projects\TPFinalAlbisoEric\ComercioDAL\bin\Debug\ComercioDAL.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\TPFinalAlbisoEric\ComercioDAL\bin\Debug\ComercioEntities.dll
+c:\users\usuario\documents\visual studio 2013\Projects\TPFinalAlbisoEric\ComercioDAL\bin\Debug\ComercioEntities.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\TPFinalAlbisoEric\ComercioDAL\obj\Debug\ComercioDAL.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2013\Projects\TPFinalAlbisoEric\ComercioDAL\obj\Debug\ComercioDAL.dll
+c:\users\usuario\documents\visual studio 2013\Projects\TPFinalAlbisoEric\ComercioDAL\obj\Debug\ComercioDAL.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\TP9AlbisoEric\TPFinalAlbisoEric\ComercioDAL\bin\Debug\ComercioDAL.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\TP9AlbisoEric\TPFinalAlbisoEric\ComercioDAL\bin\Debug\ComercioDAL.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\TP9AlbisoEric\TPFinalAlbisoEric\ComercioDAL\bin\Debug\ComercioEntities.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\TP9AlbisoEric\TPFinalAlbisoEric\ComercioDAL\bin\Debug\ComercioEntities.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\TP9AlbisoEric\TPFinalAlbisoEric\ComercioDAL\obj\Debug\ComercioDAL.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\TP9AlbisoEric\TPFinalAlbisoEric\ComercioDAL\obj\Debug\ComercioDAL.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\TP9AlbisoEric\TPFinalAlbisoEric\ComercioDAL\obj\Debug\ComercioDAL.pdb

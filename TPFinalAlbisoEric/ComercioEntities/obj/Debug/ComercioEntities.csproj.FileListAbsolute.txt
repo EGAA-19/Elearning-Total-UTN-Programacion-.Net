@@ -1,0 +1,10 @@
+c:\users\usuario\documents\visual studio 2013\Projects\TPFinalAlbisoEric\ComercioEntities\bin\Debug\ComercioEntities.dll
+c:\users\usuario\documents\visual studio 2013\Projects\TPFinalAlbisoEric\ComercioEntities\bin\Debug\ComercioEntities.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\TPFinalAlbisoEric\ComercioEntities\obj\Debug\ComercioEntities.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2013\Projects\TPFinalAlbisoEric\ComercioEntities\obj\Debug\ComercioEntities.dll
+c:\users\usuario\documents\visual studio 2013\Projects\TPFinalAlbisoEric\ComercioEntities\obj\Debug\ComercioEntities.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\TP9AlbisoEric\TPFinalAlbisoEric\ComercioEntities\bin\Debug\ComercioEntities.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\TP9AlbisoEric\TPFinalAlbisoEric\ComercioEntities\bin\Debug\ComercioEntities.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\TP9AlbisoEric\TPFinalAlbisoEric\ComercioEntities\obj\Debug\ComercioEntities.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\TP9AlbisoEric\TPFinalAlbisoEric\ComercioEntities\obj\Debug\ComercioEntities.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\TP9AlbisoEric\TPFinalAlbisoEric\ComercioEntities\obj\Debug\ComercioEntities.pdb
